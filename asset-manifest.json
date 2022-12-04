@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/erzhigitwx/user-react-app/static/css/main.cd5d95a0.css",
-    "main.js": "/erzhigitwx/user-react-app/static/js/main.f19e772e.js",
-    "static/media/Success.svg": "/erzhigitwx/user-react-app/static/media/Success.a15b9a8a62a5d415b97db4047d9e71e6.svg",
-    "static/media/plus.svg": "/erzhigitwx/user-react-app/static/media/plus.5759e194f107cc75389116919992b0fd.svg",
-    "static/media/minus.svg": "/erzhigitwx/user-react-app/static/media/minus.22a507048c0b76534eaf8ce3083710d0.svg",
-    "index.html": "/erzhigitwx/user-react-app/index.html",
-    "main.cd5d95a0.css.map": "/erzhigitwx/user-react-app/static/css/main.cd5d95a0.css.map",
-    "main.f19e772e.js.map": "/erzhigitwx/user-react-app/static/js/main.f19e772e.js.map"
+    "main.css": "/user-react-app/static/css/main.cd5d95a0.css",
+    "main.js": "/user-react-app/static/js/main.1fe6933e.js",
+    "static/media/Success.svg": "/user-react-app/static/media/Success.a15b9a8a62a5d415b97db4047d9e71e6.svg",
+    "static/media/plus.svg": "/user-react-app/static/media/plus.5759e194f107cc75389116919992b0fd.svg",
+    "static/media/minus.svg": "/user-react-app/static/media/minus.22a507048c0b76534eaf8ce3083710d0.svg",
+    "index.html": "/user-react-app/index.html",
+    "main.cd5d95a0.css.map": "/user-react-app/static/css/main.cd5d95a0.css.map",
+    "main.1fe6933e.js.map": "/user-react-app/static/js/main.1fe6933e.js.map"
   },
   "entrypoints": [
     "static/css/main.cd5d95a0.css",
-    "static/js/main.f19e772e.js"
+    "static/js/main.1fe6933e.js"
   ]
 }
